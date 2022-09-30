@@ -83,15 +83,16 @@ html{
     content: "";
     background: url(../websitee/39\(6\).jpeg) no-repeat center center/cover;
     position: absolute;
+    opacity: 60%;
     height: 600px;
     width: 100%;
     top: 0px;
     left: 0px;
-    z-index: -1; 
+    z-index: -1;
 }
 
 #home h1{
-    color: white;
+    color: black;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -113,7 +114,7 @@ html{
 #services .box{
     border: 2px solid rgb(241, 3, 3);
     padding: 34px;
-    margin: 34px; 
+    margin: 34px;
     border-radius: 28px;
     background-color: aliceblue;
 }
@@ -133,7 +134,7 @@ html{
     /* height: 344px; */
     position: relative;
     top: 0px;
-    
+
 }
 #client-section::before{
     content: "";

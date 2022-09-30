@@ -1,12 +1,12 @@
 /* Navigation */
 #navbar{
     flex-direction: column;
+    padding: 19px;
 }
 
 #navbar ul li a{
     font-size: 1rem;
     padding: 2px 9px;
-    padding-bottom: 18px;
 }
 /* Home */
 
@@ -49,7 +49,7 @@
     flex-wrap: wrap;
     padding-bottom: 53px;
     height: 101px;
-   
+
 }
 .client-item{
     padding: 15px;
